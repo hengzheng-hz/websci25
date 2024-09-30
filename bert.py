@@ -18,6 +18,7 @@ docs = [
     "Python is great for data science and machine learning.",
     "Natural language processing enables computers to understand text.",
     "Topic modeling helps discover themes in documents."
+    "XXX"
 ]
 
 # Fit the BERTopic model on the documents
